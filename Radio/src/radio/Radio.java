@@ -7,7 +7,7 @@ package radio;
 
 /**
  *
- * @author tarik
+ * @author tarik bozdemir
  */
 public class Radio {
 
